@@ -1,0 +1,20 @@
+.countryCard {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.countryCard-flag {
+  width: 100px;
+  height: auto;
+  border-radius: 4px;
+}
+
+.countryCard-name {
+  font-size: 16px;
+  margin-top: 10px;
+}
